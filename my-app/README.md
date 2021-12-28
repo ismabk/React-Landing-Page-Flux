@@ -12,11 +12,11 @@ Page made with React dedicated to the sports world, in which you can check the l
 ### How to start this project:
 - If you are working locally, type the following command in your terminal:
 
-`git clone https://github.com/fjrf16/React-Landing-Page`
+`git clone https://github.com/ismabk/React-Landing-Page-Flux`
 
 - If you use Gitpod you can clone the boilerplate by running the following command in your terminal:
 
-`git clone https://github.com/fjrf16/React-Landing-Page`
+`git clone https://github.com/ismabk/React-Landing-Page-Flux`
 
 Once the code has been obtained, type the following command in your terminal:
 
